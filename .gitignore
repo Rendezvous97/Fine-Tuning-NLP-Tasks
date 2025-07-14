@@ -142,3 +142,6 @@ lightning_logs/
 text-classification-DISTILBERT-IMDB/
 */text-classification-DISTILBERT-IMDB/
 *.ipynb_checkpoints/ 
+
+
+token_classification_DistilBERT_WNUT17/
